@@ -1,5 +1,4 @@
-
-#JavaScript implementations of standard and secure cryptographic algorithms
+# JavaScript implementations of standard and secure cryptographic algorithms
 
 Copied from: https://code.google.com/archive/p/crypto-js/
 
